@@ -5,7 +5,7 @@
 
 📌 Sobre
 
-Projeto acadêmico sobre segurança cibernética no setor financeiro, analisando o papel da autenticação biométrica na proteção de contas bancárias e na prevenção de fraudes em ambientes de transações digitais.
+Projeto acadêmico sobre segurança cibernética no setor financeiro, analisando o papel da autenticação biométrica na proteção de contas bancárias e na prevenção de fraudes.
 
 
 
@@ -15,8 +15,7 @@ Projeto acadêmico sobre segurança cibernética no setor financeiro, analisando
 
 
 De que forma a segurança cibernética e os mecanismos de autenticação biométrica contribuem para 
-a proteção das contas financeiras contra fraudes digitais em um cenário de crescente digitalização 
-dos serviços bancários?
+a proteção das contas financeiras digitais?
 
 ---
 
