@@ -14,7 +14,9 @@ Projeto acadêmico sobre segurança cibernética no setor financeiro, analisando
 🎯 Pergunta Norteadora
 
 
-Como a biometria pode fortalecer a segurança das contas bancárias no ambiente financeiro digital?
+De que forma a segurança cibernética e os mecanismos de autenticação biométrica contribuem para 
+a proteção das contas financeiras contra fraudes digitais em um cenário de crescente digitalização 
+dos serviços bancários?
 
 ---
 
